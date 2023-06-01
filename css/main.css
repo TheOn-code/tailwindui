@@ -755,7 +755,7 @@ video {
   background-color: hsl(131 27% 45% / var(--tw-bg-opacity));
 }
 
-.bg-brightRedSupLight {
+.bg-brightGreenSupLight {
   --tw-bg-opacity: 1;
   background-color: hsl(131 100% 79% / var(--tw-bg-opacity));
 }
@@ -952,7 +952,7 @@ body {
   transform: rotate(-45deg) translateY(6px) translate(-6px);
 }
 
-.hover\:bg-brightRedLight:hover {
+.hover\:bg-brightGreenLight:hover {
   --tw-bg-opacity: 1;
   background-color: hsl(131 35% 57% / var(--tw-bg-opacity));
 }
